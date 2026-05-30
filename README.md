@@ -1,6 +1,6 @@
 # Machine-Learning-Project-Data-
 # 🧠 Stroke Risk Predictor
-
+# Made by: Inji Hatem Amin     ID:231000596
 A machine learning web app that predicts stroke risk based on patient data.
 
 ## 🔗 Live App
